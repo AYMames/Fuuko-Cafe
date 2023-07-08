@@ -1,0 +1,17 @@
+{
+  "title": "Fuuko in the Cafe",
+  "description": "Fuuko is a shy girl—so shy that she has trouble talking to strangers. Determined to change herself, she starts working as a waitress at Cafe Rhodos. The people she meets on and off the job will lead her through the often frightful world of adolescence, and beyond.",
+  "artist": "Iwaaki Hitoshi",
+  "author": "Iwaaki Hitoshi",
+  "cover": "mangacoverurl.jpg",
+  "chapters": {
+    "<chapter number>": {
+      "title": "1-10",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/tigB1E9/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
